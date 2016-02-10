@@ -1,0 +1,18 @@
+* {
+    font-family: monospace;
+    color: #222;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    background: #f8f8f8;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
